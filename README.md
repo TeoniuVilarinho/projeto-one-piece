@@ -7,11 +7,11 @@
 ## Prints
 - Versão desktop
 
-<img src="./design/projeto-one-piece-desktop.png">
+<img src="./src/design/projeto-one-piece-desktop.png">
 
 - Versão mobile
 
-<img src="./design/projeto-one-piece-mobile.png">
+<img src="./src/design/projeto-one-piece-mobile.png">
 
 ## Link
 
